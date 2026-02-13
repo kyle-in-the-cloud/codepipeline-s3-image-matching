@@ -1,1 +1,2 @@
-# codepipeline-s3-image-matching
+# codepipeline-s3-game
+Image Matching Game
